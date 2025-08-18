@@ -19,7 +19,7 @@
  ![image](https://github.com/user-attachments/assets/08c41a5b-abc2-45c5-b12a-b731670e27af)
 
 
-><img src="https://media.discordapp.net/attachments/1290301627063992330/1394808789563211896/image.png?ex=68782869&is=6876d6e9&hm=35e2abed7d6ba3a373a3cb4ae7337f3d7bfaf9cc3ab251f8425ca941b20e91ca&=&format=webp&quality=lossless&width=1318&height=260" width="220">
+<img width="300" height="375" alt="image" src="https://github.com/user-attachments/assets/8752ac27-d702-4925-8460-736a164878f2" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Tales_of_Arcadia_logo.png" width="300">
 
 
